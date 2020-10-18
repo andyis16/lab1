@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("./open-sans/OpenSans-Regular.ttf");
+  }
+
+  body {
+    background-color: #f9fafc;
+    font-family: "Open Sans";
+    margin: 20px 30px 20px 30px;
+    }
+     
+  h1 {
+    text-align: left;
+    font-size: 14px;
+    margin-top: 50px;
+    }  
+
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+    list-style-type: none;
+
+  }
+  nav li {
+      color: #69696a;
+      font-size: 14px;
+      text-align: left;
+      margin-top: 15px;
+      margin-bottom: 15px;
+      color: #69696a;
+      text-decoration: none;
+      
+  }
+
+  a:link {
+    color: #69696a;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #69696a;
+    text-decoration: none;
+}
+
+  h2 {
+    text-align: left;
+    font-size: 50px;
+    margin-top: 70px;
+  }  
+
+  blockquote {
+    color: #69696a;
+    border-left: 8px solid #69696a;
+    margin: 50px 0 50px;
+    /* margin-bottom: 50px; */
+    padding-left: 20px;
+    font-size: 12px;
+
+    }
+
+  button {
+      background-color: #000;
+      color: #fff;
+      text-align: center;
+      font-family: "Open Sans";
+      font-size: 32px;
+      width: 100%;
+      border-radius: 40px;
+      padding: 14px 40px;
+
+  }
+
