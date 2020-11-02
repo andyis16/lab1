@@ -162,7 +162,7 @@ font-size: 12px;
   #first-circle {
     display: flex;
     background: rgba(247, 136, 167, 0.6);
-    opacity: 0.5;
+    /*z-index: 1;*/
     border-radius: 75%;
     height: 200px;
     width: 200px;
@@ -174,7 +174,7 @@ font-size: 12px;
   #second-circle {
     display: flex;
     background: rgba(247, 193, 162, 0.7);
-    opacity: 0.75;
+    /*z-index: 3;*/
     border-radius: 75%;
     height: 175px;
     width: 175px;
@@ -186,7 +186,7 @@ font-size: 12px;
   #third-circle {
     display: flex;
     background: rgba(207, 130, 213, 0.6);
-    opacity: 0.75;
+    /*z-index: 2;*/
     border-radius: 75%;
     height: 125px;
     width: 125px;
